@@ -2,15 +2,15 @@ package com.lau.leetcode.algorithm_i;
 
 /**
  *
- * @author lauraPerez
+ *  @author lauraPerez
  * 
- * LeetCode problem:  Search Insert Position
- * 
- * 
- * Status: Accepted
+ *  LeetCode problem:  Search Insert Position
  * 
  * 
- * Submission Detail:
+ *  Status: Accepted
+ * 
+ * 
+ *  Submission Detail:
  * 
  *  64 / 64 test cases passed.
  * 
@@ -19,16 +19,16 @@ package com.lau.leetcode.algorithm_i;
  *  Memory Usage: 41.9 MB
  * 
  * 
- * Accepted Solutions Runtime Distribution:   
+ *  Accepted Solutions Runtime Distribution:   
  * 
- * Your runtime beats 100.00 % 
- * of java submissions.
+ *  Your runtime beats 100.00 % 
+ *  of java submissions.
  * 
  * 
- * Accepted Solutions Memory Distribution
+ *  Accepted Solutions Memory Distribution
  * 
- * Your memory usage beats 60.52 % 
- * of java submissions
+ *  Your memory usage beats 60.52 % 
+ *  of java submissions
  * 
  */
 
