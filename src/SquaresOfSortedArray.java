@@ -2,35 +2,35 @@ package com.lau.leetcode.algorithm_i;
 
 /**
  *
- * @author lauraPerez
+ *  @author lauraPerez
  * 
- * LeetCode problem: Squares of a Sorted Array
- * 
- * 
- * Status: Accepted
+ *  LeetCode problem: Squares of a Sorted Array
  * 
  * 
- * Submission Detail:
- * 
- * 137 / 137 test cases passed.
- * 
- * Status: Accepted
- * 
- * Runtime: 528 ms
- * 
- * Memory Usage: 43.6 MB
+ *  Status: Accepted
  * 
  * 
- * Accepted Solutions Runtime Distribution:  
+ *  Submission Detail:
  * 
- * Your runtime beats 5.02 % 
- * of java submissions.
+ *  137 / 137 test cases passed.
+ * 
+ *  Status: Accepted
+ * 
+ *  Runtime: 528 ms
+ * 
+ *  Memory Usage: 43.6 MB
  * 
  * 
- * Accepted Solutions Memory Distribution
+ *  Accepted Solutions Runtime Distribution:  
  * 
- * Your memory usage beats 93.57 % 
- * of java submissions.
+ *  Your runtime beats 5.02 % 
+ *  of java submissions.
+ * 
+ * 
+ *  Accepted Solutions Memory Distribution
+ * 
+ *  Your memory usage beats 93.57 % 
+ *  of java submissions.
  * 
  */
 
