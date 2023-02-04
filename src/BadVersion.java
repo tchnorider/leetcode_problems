@@ -3,33 +3,33 @@ package com.lau.leetcode.algorithm_i;
 
 /**
  *
- * @author lauraPerez
+ *  @author lauraPerez
  * 
- * LeetCode problem: First Bad Version
- * 
- * 
- * Status: Accepted
+ *  LeetCode problem: First Bad Version
  * 
  * 
- * Submission Detail:
- * 
- * 24 / 24 test cases passed.
- * 
- * Runtime: 16 ms
- * 
- * Memory Usage: 39.1 MB
+ *  Status: Accepted
  * 
  * 
- * Accepted Solutions Runtime Distribution:  
+ *  Submission Detail:
  * 
- * Your runtime beats 93.21 % 
- * of java submissions.
+ *  24 / 24 test cases passed.
+ * 
+ *  Runtime: 16 ms
+ * 
+ *  Memory Usage: 39.1 MB
  * 
  * 
- * Accepted Solutions Memory Distribution
+ *  Accepted Solutions Runtime Distribution:  
  * 
- * Your memory usage beats 58.37 % 
- * of java submissions.
+ *  Your runtime beats 93.21 % 
+ *  of java submissions.
+ * 
+ * 
+ *  Accepted Solutions Memory Distribution
+ * 
+ *  Your memory usage beats 58.37 % 
+ *  of java submissions.
  * 
  */
 
